@@ -1,2 +1,2 @@
 # Coursework
-Coursework
+Course work
